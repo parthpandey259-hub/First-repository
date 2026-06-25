@@ -1,2 +1,2 @@
 # First-repository
-this is my first repository in git hub
+This is my First Repository in Git Hub
